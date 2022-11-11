@@ -11,6 +11,7 @@ function App() {
     <>
       <Header />
       <AboutUs />
+      <WhyUs />
       <Gallery />
       <WhyUs />
       <Subscribe />
